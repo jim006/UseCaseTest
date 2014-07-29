@@ -3,3 +3,4 @@ This is a file of notes.
 Local Note 1:  (merged)
 Local Note 2:  on Branch1 now.
 Local Note 3:  After merge to main.
+Unwanted note -- undo this change!
