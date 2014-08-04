@@ -3,3 +3,5 @@ This is a file of notes.
 Local Note 1:  (merged)
 Local Note 2:  on Branch1 now.
 Local Note 3:  another change to branch 1.
+
+Commit:  Branch 1
