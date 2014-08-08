@@ -2,5 +2,6 @@ This is a file of notes.
 
 Local Note 1:  (merged)
 Local Note 2:  on Branch1 now.
-Screw it -- a new comment.
-That was a bad comment!
+Local Note 3:  After merge to main.
+Manual Text
+Resolved the conflict
