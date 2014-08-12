@@ -5,3 +5,4 @@ Local Note 2:  on Branch1 now.
 Local Note 3:  After merge to main.
 Manual Text
 Resolved the conflict
+test branch2
